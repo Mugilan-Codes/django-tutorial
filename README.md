@@ -20,7 +20,7 @@
    mkdir <project_folder> && $_
    ```
 
-1. Create a Virutalenv using pyenv-virtualenv or poetry (or any other).
+1. Create a Virutalenv using pyenv-virtualenv or poetry (or any other). Make sure to select the correct interpreter in vscode
 
    ```sh
    # create
