@@ -12,7 +12,46 @@
 - [pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
 - [poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy
 
-### REFERENCES
+### STEPS
+
+1. Make a project folder
+
+   ```sh
+   mkdir <project_folder> && $_
+   ```
+
+1. Create a Virutalenv using pyenv-virtualenv or poetry (or any other).
+
+   ```sh
+   # create
+   pyenv virtualenv <python_version> <virtualenv_name>
+
+   # set the environment to auto-activate (.python-version) 
+   pyenv local <virtualenv_name>
+
+   # dependency manager
+   poetry init
+   ```
+
+1. Install Package
+
+   ```sh
+   poetry add django
+   ```
+
+1. Start project
+
+   ```sh
+   poetry run django-admin.py startproject <project_name> .
+   ```
+
+1. Export dependencies to a requirements.txt
+
+   ```sh
+   poetry export -f requirements.txt --output requirements.txt
+   ```
+
+#### REFERENCES
 
 - [SETTING UP A DJANGO 3 PROJECT WITH POETRY](https://davebaker.me/2020/07/19/setting-up-django-project-with-poetry/)
 - [Managing a Django Project with Poetry](https://rasulkireev.com/managing-django-with-poetry/)
