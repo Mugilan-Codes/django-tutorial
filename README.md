@@ -63,6 +63,7 @@
   - [Missing Docstring](https://stackoverflow.com/a/54881400/12381908) - Stackoverflow
 - [Templates](https://docs.djangoproject.com/en/3.2/topics/templates/)
 - [Avoiding race conditions using F()](https://docs.djangoproject.com/en/3.2/ref/models/expressions/#avoiding-race-conditions-using-f)
+- [Class-based views](https://docs.djangoproject.com/en/3.2/topics/class-based-views/)
 
 #### REFERENCES
 
