@@ -51,6 +51,13 @@
    poetry export -f requirements.txt --output requirements.txt
    ```
 
+#### RESOURCES
+
+- [Time zones](https://docs.djangoproject.com/en/3.2/topics/i18n/timezones/) - time zone handling
+- [Related objects reference](https://docs.djangoproject.com/en/3.2/ref/models/relations/) - model relations
+- [Field lookups](https://docs.djangoproject.com/en/3.2/topics/db/queries/#field-lookups-intro) - how to use double underscores
+- [Making queries](https://docs.djangoproject.com/en/3.2/topics/db/queries/) - database API
+
 #### REFERENCES
 
 - [SETTING UP A DJANGO 3 PROJECT WITH POETRY](https://davebaker.me/2020/07/19/setting-up-django-project-with-poetry/)
