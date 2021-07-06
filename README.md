@@ -64,6 +64,7 @@
 - [Templates](https://docs.djangoproject.com/en/3.2/topics/templates/)
 - [Avoiding race conditions using F()](https://docs.djangoproject.com/en/3.2/ref/models/expressions/#avoiding-race-conditions-using-f)
 - [Class-based views](https://docs.djangoproject.com/en/3.2/topics/class-based-views/)
+- [Testing in Django](https://docs.djangoproject.com/en/3.2/topics/testing/)
 
 #### REFERENCES
 
