@@ -61,6 +61,7 @@
 - PyLint (Optional) - DevDependency
   - [PyLint for Django in VSCode](https://dkolodzey.medium.com/pylint-for-django-in-vscode-f3fadb8462d) - Medium Article
   - [Missing Docstring](https://stackoverflow.com/a/54881400/12381908) - Stackoverflow
+- [Templates](https://docs.djangoproject.com/en/3.2/topics/templates/)
 
 #### REFERENCES
 
