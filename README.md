@@ -57,6 +57,10 @@
 - [Related objects reference](https://docs.djangoproject.com/en/3.2/ref/models/relations/) - model relations
 - [Field lookups](https://docs.djangoproject.com/en/3.2/topics/db/queries/#field-lookups-intro) - how to use double underscores
 - [Making queries](https://docs.djangoproject.com/en/3.2/topics/db/queries/) - database API
+- [URL dispatcher](https://docs.djangoproject.com/en/3.2/topics/http/urls/) - use of URLconfs. A URLconf maps URL patterns to views
+- PyLint (Optional) - DevDependency
+  - [PyLint for Django in VSCode](https://dkolodzey.medium.com/pylint-for-django-in-vscode-f3fadb8462d) - Medium Article
+  - [Missing Docstring](https://stackoverflow.com/a/54881400/12381908) - Stackoverflow
 
 #### REFERENCES
 

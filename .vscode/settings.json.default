@@ -1,0 +1,16 @@
+{
+  "[python]": {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    }
+  },
+  "python.linting.pylintEnabled": true,
+  "python.linting.pylintArgs": [
+    "--disable=C0111",
+    "--load-plugins=pylint_django",
+    "--django-settings-module=mysite.settings"
+  ],
+  "python.formatting.provider": "black",
+  "python.linting.enabled": true
+}
