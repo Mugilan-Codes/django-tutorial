@@ -72,6 +72,7 @@
 - [The Django admin site](https://docs.djangoproject.com/en/3.2/ref/contrib/admin/)
   - [display()](https://docs.djangoproject.com/en/3.2/ref/contrib/admin/#django.contrib.admin.display) decorator
   - [list_display](https://docs.djangoproject.com/en/3.2/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_display) - properties configurable via the decorator
+- [Templates](https://docs.djangoproject.com/en/3.2/topics/templates/)
 
 #### REFERENCES
 
