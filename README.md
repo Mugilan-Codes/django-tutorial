@@ -65,6 +65,10 @@
 - [Avoiding race conditions using F()](https://docs.djangoproject.com/en/3.2/ref/models/expressions/#avoiding-race-conditions-using-f)
 - [Class-based views](https://docs.djangoproject.com/en/3.2/topics/class-based-views/)
 - [Testing in Django](https://docs.djangoproject.com/en/3.2/topics/testing/)
+- Static Files
+  - [Managing static files (e.g. images, JavaScript, CSS)](https://docs.djangoproject.com/en/3.2/howto/static-files/)
+  - [The staticfiles app](https://docs.djangoproject.com/en/3.2/ref/contrib/staticfiles/)
+  - [Deploying static files](https://docs.djangoproject.com/en/3.2/howto/static-files/deployment/) discusses how to use static files on a real server.
 
 #### REFERENCES
 
