@@ -69,6 +69,9 @@
   - [Managing static files (e.g. images, JavaScript, CSS)](https://docs.djangoproject.com/en/3.2/howto/static-files/)
   - [The staticfiles app](https://docs.djangoproject.com/en/3.2/ref/contrib/staticfiles/)
   - [Deploying static files](https://docs.djangoproject.com/en/3.2/howto/static-files/deployment/) discusses how to use static files on a real server.
+- [The Django admin site](https://docs.djangoproject.com/en/3.2/ref/contrib/admin/)
+  - [display()](https://docs.djangoproject.com/en/3.2/ref/contrib/admin/#django.contrib.admin.display) decorator
+  - [list_display](https://docs.djangoproject.com/en/3.2/ref/contrib/admin/#django.contrib.admin.ModelAdmin.list_display) - properties configurable via the decorator
 
 #### REFERENCES
 
